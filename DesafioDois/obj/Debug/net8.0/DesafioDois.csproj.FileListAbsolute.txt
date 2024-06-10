@@ -1,0 +1,15 @@
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\bin\Debug\net8.0\DesafioDois.exe
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\bin\Debug\net8.0\DesafioDois.deps.json
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\bin\Debug\net8.0\DesafioDois.runtimeconfig.json
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\bin\Debug\net8.0\DesafioDois.dll
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\bin\Debug\net8.0\DesafioDois.pdb
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.AssemblyInfoInputs.cache
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.AssemblyInfo.cs
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.csproj.CoreCompileInputs.cache
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.sourcelink.json
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.dll
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\refint\DesafioDois.dll
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.pdb
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\DesafioDois.genruntimeconfig.cache
+c:\Users\user\Documents\JavaDio\Logica_Computacional\DesafiosLogica\DesafioDois\obj\Debug\net8.0\ref\DesafioDois.dll
