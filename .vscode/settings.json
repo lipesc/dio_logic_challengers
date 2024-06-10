@@ -6,5 +6,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "dotnet.defaultSolution": "DesafioDois.sln"
+    "dotnet.defaultSolution": "DesafioDois.sln",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
